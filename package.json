@@ -1,0 +1,19 @@
+{
+  "name": "js211_hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderB98/JS211_HangMan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderB98/JS211_HangMan/issues"
+  },
+  "homepage": "https://github.com/AlexanderB98/JS211_HangMan#readme"
+}
